@@ -1,4 +1,4 @@
-# Vector-Graphics-Drawing
+# Randomized Vector Wallpaper Generator
 
 Prompts user for desired window resolution, and then creates a randomized vector wallpaper for that resolution, and saves the image in the 'ScreenCap' folder.
 
