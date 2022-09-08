@@ -1,14 +1,9 @@
 # Vector-Graphics-Drawing
 
+Prompts user for desired window resolution, and then creates a randomized vector wallpaper for that resolution, and saves the image in the 'ScreenCap' folder.
 
-IN DEVELOPMENT.
+![screenshot](https://user-images.githubusercontent.com/60831223/189240693-02d0e18a-ab84-406b-98e7-8f3849e31997.png)
 
-Draws vector line art depending on the initial starting point set by the user, the user can also use Q and E to toggle manual mode. WASD to change the movement.
+![woah](https://user-images.githubusercontent.com/60831223/189240704-79b7f2e3-9011-404b-9d42-b2e9b9af99bc.png)
 
-
-![Vector art 1](https://user-images.githubusercontent.com/60831223/151713237-1e347b8b-4dd6-48a8-b6fc-55b9d52b2212.PNG)
-
-
-![Vector art 2](https://user-images.githubusercontent.com/60831223/151713245-25370f59-7417-4b9c-9ef3-0fb825c000d4.png)
-
-![image](https://user-images.githubusercontent.com/60831223/151713666-ebcfc2c5-b368-435f-9be5-5cea80a919a6.png)
+![sssssss](https://user-images.githubusercontent.com/60831223/189240711-30779d1c-9917-4b3e-98f7-ccafb41f9d80.png)
